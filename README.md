@@ -1,3 +1,3 @@
 # CS-526
 
-## Author: Yuewei Wang, names here
+## Author: Yuewei Wang, Xinchang Xiong
